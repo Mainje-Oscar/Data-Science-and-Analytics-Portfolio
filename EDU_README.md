@@ -15,6 +15,9 @@ distribution across the counties, financial standing of the education sector, an
 - School's financial operations analysis
 - Academic perfomance analysis
 - Location based analysis
+- Summarised explanation of data cleaning process
+- Brief Model Explanation
+- DAX measures used in the model
 
 ## Tools Used
 - Power BI
