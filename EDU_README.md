@@ -22,4 +22,3 @@ distribution across the counties, financial standing of the education sector, an
 ## Tools Used
 - Power BI
 - Power Query
-- DAX
